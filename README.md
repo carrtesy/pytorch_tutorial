@@ -6,3 +6,4 @@ Pytorch Tutorials - Complete Beginner Course: https://www.youtube.com/playlist?l
 - Tensor basics: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/Tensors.ipynb
 - autograd: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/autograd.ipynb
 - backprop, loss, and optimizer: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/Backprop_Loss_Optimizer.ipynb
+- regression models: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/Regression_Models.ipynb
