@@ -11,3 +11,4 @@ Pytorch Tutorials - Complete Beginner Course: https://www.youtube.com/playlist?l
 - softmax and activations: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/Softmax_and_Activation.ipynb
 - feed forward and cnn: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/forward_and_conv.ipynb
 - transfer learning: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/Transfer_Learning.ipynb
+- RNN: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/RNN_LSTM_GRU.ipynb
