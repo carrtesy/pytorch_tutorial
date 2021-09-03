@@ -12,3 +12,7 @@ Pytorch Tutorials - Complete Beginner Course: https://www.youtube.com/playlist?l
 - feed forward and cnn: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/forward_and_conv.ipynb
 - transfer learning: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/Transfer_Learning.ipynb
 - RNN: https://github.com/dongminkim0220/pytorch_tutorial/blob/master/RNN_LSTM_GRU.ipynb
+
+## NLP
+Pytorch Official NLP Tutorial
+- NLP Basics(Char RNN): https://github.com/dongminkim0220/pytorch_tutorial/blob/master/NLP.ipynb
